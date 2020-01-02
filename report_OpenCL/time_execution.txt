@@ -1,0 +1,29 @@
+
+2<<26
+The kernels ran in 0.026000 seconds
+vector add to find C = A+B:  268435456 out of 268435456 results were correct.
+
+2<<25
+The kernels ran in 0.011000 seconds
+vector add to find C = A+B:  134217728 out of 134217728 results were correct.
+
+2<<24
+The kernels ran in 0.005000 seconds
+vector add to find C = A+B:  67108864 out of 67108864 results were correct.
+
+2<<23
+The kernels ran in 0.002000 seconds
+vector add to find C = A+B:  33554432 out of 33554432 results were correct.
+
+2<<22
+The kernels ran in 0.001000 seconds
+vector add to find C = A+B:  16777216 out of 16777216 results were correct.
+
+2<<21
+The kernels ran in 0.009000 seconds
+vector add to find C = A+B:  8388608 out of 8388608 results were correct.
+
+2<<20
+The kernels ran in 0.000000 seconds
+vector add to find C = A+B:  4194304 out of 4194304 results were correct.
+Exception
